@@ -20,13 +20,7 @@
     "title": "google - Google 搜索",
     "url": "https://www.google.com/search?q=google&oq=google&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyCQgCEAAYDBiABDIJCAMQABgMGIAEMgkIBBAAGAwYgAQyBwgFEAAYgAQyCQgGEAAYDBiABDIJCAcQABgMGIAEMgkICBAAGAwYgAQyBwgJEAAYgATSAQgxMjEyajBqNKgCALACAQ&sourceid=chrome&ie=UTF-8",
     "id": "10",
-    "tags": [
-      {
-        "name": "search",
-        "source": "USER",
-        "browserType": "1"
-      }
-    ],
+    "tags": [],
     "browserType": "1"
   },
   {
@@ -34,7 +28,18 @@
     "title": "百度一下，你就知道",
     "url": "https://www.baidu.com/",
     "id": "6",
-    "tags": [],
+    "tags": [
+      {
+        "name": "search",
+        "source": "USER",
+        "browserType": "1"
+      },
+      {
+        "name": "中文",
+        "source": "USER",
+        "browserType": "1"
+      }
+    ],
     "browserType": "1"
   }
 ]

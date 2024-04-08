@@ -4,13 +4,7 @@
     "title": "Dell 公式サイト (Dell Japan) | Dell 日本",
     "url": "https://www.dell.com/ja-jp",
     "id": "19",
-    "tags": [
-      {
-        "name": "other",
-        "source": "USER",
-        "browserType": "1"
-      }
-    ],
+    "tags": [],
     "browserType": "1"
   },
   {
@@ -18,7 +12,13 @@
     "title": "Google",
     "url": "https://www.google.com/",
     "id": "16",
-    "tags": [],
+    "tags": [
+      {
+        "name": "search",
+        "source": "USER",
+        "browserType": "1"
+      }
+    ],
     "browserType": "1"
   },
   {

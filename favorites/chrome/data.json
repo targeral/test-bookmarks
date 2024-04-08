@@ -18,7 +18,13 @@
     "title": "Google",
     "url": "https://www.google.com/",
     "id": "16",
-    "tags": [],
+    "tags": [
+      {
+        "name": "search",
+        "source": "USER",
+        "browserType": "1"
+      }
+    ],
     "browserType": "1"
   },
   {

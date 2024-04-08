@@ -4,7 +4,13 @@
     "title": "Dell 公式サイト (Dell Japan) | Dell 日本",
     "url": "https://www.dell.com/ja-jp",
     "id": "19",
-    "tags": [],
+    "tags": [
+      {
+        "name": "other",
+        "source": "USER",
+        "browserType": "1"
+      }
+    ],
     "browserType": "1"
   },
   {
@@ -28,18 +34,7 @@
     "title": "百度一下，你就知道",
     "url": "https://www.baidu.com/",
     "id": "6",
-    "tags": [
-      {
-        "name": "search",
-        "source": "USER",
-        "browserType": "1"
-      },
-      {
-        "name": "中文",
-        "source": "USER",
-        "browserType": "1"
-      }
-    ],
+    "tags": [],
     "browserType": "1"
   }
 ]

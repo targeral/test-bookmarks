@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "browserType": "1",
+    "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "url": "https://www.bilibili.com/",
+    "tags": [
+      {
+        "browserType": "1",
+        "name": "test",
+        "source": "TAB_GROUP"
+      }
+    ],
+    "id": 484451747,
+    "dateAdded": 1712904649822
+  },
+  {
+    "browserType": "1",
+    "title": "百度一下，你就知道",
+    "url": "https://www.baidu.com/",
+    "tags": [
+      {
+        "browserType": "1",
+        "name": "test",
+        "source": "TAB_GROUP"
+      }
+    ],
+    "id": 484451748,
+    "dateAdded": 1712904649822
+  }
+]
